@@ -18,6 +18,8 @@ I've included some useful variables to set at the top of quilt.py, in the 'globa
 - FOREGROUND_IMG - a string filepath to the foreground image you want to use
 - MATTE_IMG - a string filepath to the matte image you want to use
 
+* * *
+
 You can feel free to use this code for whatever you want, with the following stipulations:
 
 1. This code cannot be used in any product that is sold
