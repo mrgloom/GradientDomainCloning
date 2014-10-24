@@ -14,9 +14,9 @@ My code has the following dependencies:
 
 I've included some useful variables to set at the top of quilt.py, in the 'globals' section starting on line 18:
 
-BACKGROUND_IMG - a string filepath to the background image you want to use
-FOREGROUND_IMG - a string filepath to the foreground image you want to use
-MATTE_IMG - a string filepath to the matte image you want to use
+- BACKGROUND_IMG - a string filepath to the background image you want to use
+- FOREGROUND_IMG - a string filepath to the foreground image you want to use
+- MATTE_IMG - a string filepath to the matte image you want to use
 
 You can feel free to use this code for whatever you want, with the following stipulations:
 
