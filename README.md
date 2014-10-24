@@ -1,6 +1,8 @@
 Gradient Domain Cloning
 =========
 
+![](result3.png)
+
 This is my implementation of Gradient Domain Cloning for [Homework 2 for UVA CS 6501 Computation Photography with Prof. Connelly Barnes](http://www.connellybarnes.com/work/class/2014/comp_photo/proj2/).
 
 My code has the following dependencies:
