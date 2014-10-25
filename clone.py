@@ -1,5 +1,4 @@
 __author__ = "Sam Prestwood"
-__email__ = "swp2sf@virginia.edu"
 
 """
 clone.py
