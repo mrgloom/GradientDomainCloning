@@ -5,6 +5,10 @@ Gradient Domain Cloning
 
 This is my implementation of Gradient Domain Cloning for [Homework 2 for UVA CS 6501 Computation Photography with Prof. Connelly Barnes](http://www.connellybarnes.com/work/class/2014/comp_photo/proj2/).
 
+You can run it with:
+
+    python clone.py
+
 My code has the following dependencies:
 
 - Python 2.7.5
